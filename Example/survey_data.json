@@ -1,0 +1,78 @@
+{
+  "Title": "Work from Home Survey - Part 1",
+  "Introduction": "It's a bit more than a week since we've started to work from home. Could you fill out a short survey to share your experience? Thanks and keep safe :)",
+  "Items": [
+    {
+      "Id": "8d232798-34b5-ec11-983f-002248323bcd_label",
+      "InputTypeName": "Label",
+      "Text": "Do you like working from home?"
+    },
+    {
+      "Id": "8d232798-34b5-ec11-983f-002248323bcd",
+      "InputTypeName": "SingleChoice",
+      "Choices": [
+        { "Title": "Yes", "Value": "True" },
+        { "Title": "No", "Value": "False" }
+      ]
+    },
+    {
+      "Id": "ea173e2e-35b5-ec11-983f-002248323bcd_label",
+      "InputTypeName": "Label",
+      "Text": "Are you more productive?"
+    },
+    {
+      "Id": "ea173e2e-35b5-ec11-983f-002248323bcd",
+      "InputTypeName": "SingleChoice",
+      "Choices": [
+        { "Title": "Yes", "Value": "True" },
+        { "Title": "No", "Value": "False" }
+      ]
+    },
+    {
+      "Id": "c66e478d-33b5-ec11-983f-002248323bcd_label",
+      "InputTypeName": "Label",
+      "Text": "What do you miss the most?"
+    },
+    {
+      "Id": "c66e478d-33b5-ec11-983f-002248323bcd",
+      "InputTypeName": "SingleChoice",
+      "Choices": [
+        { "Title": "Interacting with colleagues", "Value": "0" },
+        { "Title": "Meetings", "Value": "1" },
+        { "Title": "Getting away from kids", "Value": "2" },
+        { "Title": "Staff Cafe", "Value": "3" },
+        { "Title": "Large Monitors", "Value": "4" }
+      ]
+    },
+    {
+      "Id": "6e260e3c-35b5-ec11-983f-002248323bcd_label",
+      "InputTypeName": "Label",
+      "Text": "What time do you start work now?"
+    },
+    {
+      "Id": "6e260e3c-35b5-ec11-983f-002248323bcd",
+      "InputTypeName": "Time"
+    },
+    {
+      "Id": "48477905-a3bb-ec11-983f-000d3a8a774e_label",
+      "InputTypeName": "Label",
+      "Text": "Rate your experience from working from home?"
+    },
+    {
+      "Id": "48477905-a3bb-ec11-983f-000d3a8a774e",
+      "InputTypeName": "Number",
+      "Placeholder": null
+    },
+    {
+      "Id": "0642ba25-a3bb-ec11-983f-000d3a8a774e_label",
+      "InputTypeName": "Label",
+      "Text": "Share your experience"
+    },
+    {
+      "Id": "0642ba25-a3bb-ec11-983f-000d3a8a774e",
+      "InputTypeName": "Multiline",
+      "MaxLength": 0,
+      "Placeholder": null
+    }
+  ]
+}

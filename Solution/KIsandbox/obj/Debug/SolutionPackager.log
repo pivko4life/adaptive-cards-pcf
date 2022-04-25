@@ -1,0 +1,18 @@
+2022-04-25 12:58:32.783 - Info	
+Packing C:\Users\ippolitk\source\powerapps\PCF Controls\PCF\adaptivecard-templating-pcf-main\Solution\KIsandbox\obj\Debug\Metadata to bin\Debug\KIsandbox.zip
+
+2022-04-25 12:58:32.840 - Info	Processing Component: Entities
+2022-04-25 12:58:32.846 - Info	Processing Component: Roles
+2022-04-25 12:58:32.852 - Info	Processing Component: Workflows
+2022-04-25 12:58:32.853 - Info	Processing Component: FieldSecurityProfiles
+2022-04-25 12:58:32.854 - Info	Processing Component: Templates
+2022-04-25 12:58:32.855 - Info	Processing Component: EntityMaps
+2022-04-25 12:58:32.855 - Info	Processing Component: EntityRelationships
+2022-04-25 12:58:32.867 - Info	Processing Component: OrganizationSettings
+2022-04-25 12:58:32.869 - Info	Processing Component: optionsets
+2022-04-25 12:58:32.870 - Info	Processing Component: CustomControls
+2022-04-25 12:58:32.911 - Info	 - Tae.Pcf.AdaptiveCardControl
+2022-04-25 12:58:32.919 - Info	Processing Component: EntityDataProviders
+2022-04-25 12:58:33.155 - Info	
+Unmanaged Pack complete.
+

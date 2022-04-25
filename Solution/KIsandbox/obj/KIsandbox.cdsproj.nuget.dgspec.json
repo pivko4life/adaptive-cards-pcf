@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\KIsandbox.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\AdaptiveCardControl.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\AdaptiveCardControl.pcfproj",
+        "projectName": "AdaptiveCardControl",
+        "projectPath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\AdaptiveCardControl.pcfproj",
+        "packagesPath": "C:\\Users\\ippolitk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ippolitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\KIsandbox.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\KIsandbox.cdsproj",
+        "projectName": "KIsandbox",
+        "projectPath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\KIsandbox.cdsproj",
+        "packagesPath": "C:\\Users\\ippolitk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ippolitk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\AdaptiveCardControl.pcfproj": {
+                "projectPath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\AdaptiveCardControl.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+C:\Users\ippolitk\source\powerapps\PCF Controls\PCF\adaptivecard-templating-pcf-main\Solution\KIsandbox\obj\Debug\KIsandbox.cdsproj.AssemblyReference.cache
+C:\Users\ippolitk\source\powerapps\PCF Controls\PCF\adaptivecard-templating-pcf-main\Solution\KIsandbox\obj\Debug\KIsandbox.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8RdKnE6xMFZPA0UW2liAZcOyVj75aZuzeEihjJmXi5TUavo5d6TPApGxJpzVRDtP2Xk6++D9GqyJp8IiZjnoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ippolitk\\source\\powerapps\\PCF Controls\\PCF\\adaptivecard-templating-pcf-main\\Solution\\KIsandbox\\KIsandbox.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ippolitk\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\ippolitk\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\ippolitk\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.14.2\\microsoft.powerapps.msbuild.pcf.1.14.2.nupkg.sha512",
+    "C:\\Users\\ippolitk\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.14.2\\microsoft.powerapps.msbuild.solution.1.14.2.nupkg.sha512"
+  ],
+  "logs": []
+}

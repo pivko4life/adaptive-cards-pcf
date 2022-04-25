@@ -1,0 +1,32 @@
+{
+    "Title": "Work from Home Survey - Part 1",
+    "Introduction": "It's a bit more than a week since we've started to work from home. Could you fill out a short survey to share your experience? Thanks and keep safe :)",
+    "Items": [
+      {
+        
+        "ki_name": "Do you like working from home?",
+        "ki_has_choices": false,
+        "ki_data_type": "Boolean",
+        "ki_questionid": "8d232798-34b5-ec11-983f-002248323bcd"
+      },
+      {
+        
+        "ki_name": "Are you more productive?",
+        "ki_has_choices": false,
+        "ki_data_type": "Boolean",
+        "ki_questionid": "ea173e2e-35b5-ec11-983f-002248323bcd"
+      },
+      {
+        "ki_name": "What do you miss the most?",
+        "ki_has_choices": true,
+        "ki_data_type": "Single Choice",
+        "ki_questionid": "c66e478d-33b5-ec11-983f-002248323bcd"        
+      },
+      {
+        "ki_name": "What time do you start work normally?",
+        "ki_has_choices": false,
+        "ki_data_type": "Time",
+        "ki_questionid": "6e260e3c-35b5-ec11-983f-002248323bcd"
+      }
+    ]
+  }

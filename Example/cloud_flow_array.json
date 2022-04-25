@@ -1,0 +1,26 @@
+{
+    "Title": "Work from Home Survey - Part 1",
+    "Introduction": "It's a bit more than a week since we've started to work from home. Could you fill out a short survey to share your experience? Thanks and keep safe :)",
+    "Items": [
+      {
+        "Id": "8d232798-34b5-ec11-983f-002248323bcd",
+        "InputTypeName": "Boolean",
+        "Text": "Do you like working from home?"
+      },
+      {
+        "Id": "ea173e2e-35b5-ec11-983f-002248323bcd",
+        "InputTypeName": "Boolean",
+        "Text": "Are you more productive?"
+      },
+      {
+        "Id": "c66e478d-33b5-ec11-983f-002248323bcd",
+        "InputTypeName": "Single Choice",
+        "Text": "What do you miss the most?"
+      },
+      {
+        "Id": "6e260e3c-35b5-ec11-983f-002248323bcd",
+        "InputTypeName": "Time",
+        "Text": "What time do you start work normally?"
+      }
+    ]
+  }
